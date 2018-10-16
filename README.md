@@ -1,3 +1,3 @@
 # tunnel-butterfly
 
-Creation d'un projet Touchdesign avec une entrée Kinect
+Création d'un projet Touchdesign avec une entrée Kinect
